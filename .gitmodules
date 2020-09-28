@@ -1,0 +1,6 @@
+[submodule "fenix-protobufs"]
+	path = fenix-protobufs
+	url = git@github.com:bloblet/fenix-protobufs.git
+[submodule "fenix_protobufs"]
+	path = fenix/fenix_protobufs
+	url = git@github.com:bloblet/fenix-protobufs.git
